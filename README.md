@@ -28,10 +28,8 @@ A clean and responsive Todo application built with **React** and **Tailwind CSS*
 
 ### Edit Task
 
-```
 ![Edit Task in ToDO App](./src/assets/edit.png)
 
----
 
 ## 🛠️ Built With
 
